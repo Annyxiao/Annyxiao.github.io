@@ -603,8 +603,8 @@ body {
   margin: 0 5px;
   padding: 0 5px;
   font-family: Source Code Pro, Monaco, Menlo, Consolas, monospace;
-  color: #4d4d4c;
-  background: #eee;
+  color: #fff;
+  background: #000;
   font-size: 0.95em;
   word-break: break-all;
 }
@@ -659,8 +659,8 @@ body {
   margin: 0 5px;
   padding: 0 5px;
   font-family: Source Code Pro, Monaco, Menlo, Consolas, monospace;
-  color: #4d4d4c;
-  background: #eee;
+  color: #fff;
+  background: #000;
   font-size: 0.95em;
   word-break: break-all;
 }
