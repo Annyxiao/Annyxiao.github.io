@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-08-07T02:23:03.783Z</updated>
+  <updated>2019-08-07T02:49:04.632Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,50 +17,21 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>搭建博客步骤</title>
-    <link href="http://yoursite.com/2019/08/07/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%AD%A5%E9%AA%A4/"/>
-    <id>http://yoursite.com/2019/08/07/搭建博客步骤/</id>
-    <published>2019-08-07T02:01:48.000Z</published>
-    <updated>2019-08-07T02:23:03.783Z</updated>
+    <title>hexo搭建个人博客</title>
+    <link href="http://yoursite.com/2018/08/07/hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://yoursite.com/2018/08/07/hexo搭建个人博客/</id>
+    <published>2018-08-07T02:33:09.000Z</published>
+    <updated>2019-08-07T02:49:04.632Z</updated>
     
-    <content type="html"><![CDATA[<h1>11111</h1>]]></content>
+    <content type="html"><![CDATA[<h4 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h4><ol><li>首先去官网注册一个github的账号( <a href="https://github.com" target="_blank" rel="noopener">https://github.com</a>)</li><li>安装git</li><li>安装node</li><li>安装npm</li></ol>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h1&gt;11111&lt;/h1&gt;
-
-
+        &lt;h4 id=&quot;准备工作&quot;&gt;&lt;a href=&quot;#准备工作&quot; class=&quot;headerlink&quot; title=&quot;准备工作&quot;&gt;&lt;/a&gt;准备工作&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;首先去官网注册一个github的账号( &lt;a href=&quot;https://github.com&quot; target=
       
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>你好,HHexo</title>
-    <link href="http://yoursite.com/2019/03/21/%E4%BD%A0%E5%A5%BD-HHexo/"/>
-    <id>http://yoursite.com/2019/03/21/你好-HHexo/</id>
-    <published>2019-03-21T08:30:45.000Z</published>
-    <updated>2019-03-21T08:30:45.920Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>搭建博客步骤</title>
-    <link href="http://yoursite.com/2019/03/21/hello-world/"/>
-    <id>http://yoursite.com/2019/03/21/hello-world/</id>
-    <published>2019-03-21T08:05:21.888Z</published>
-    <updated>2019-08-07T01:53:31.454Z</updated>
-    
-    <summary type="html">
     
     </summary>
     
