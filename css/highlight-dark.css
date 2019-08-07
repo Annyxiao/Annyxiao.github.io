@@ -18,8 +18,8 @@ pre code {
   border-radius: 5px;
   box-shadow: 1px 1px 2px rgba(0,0,0,0.125);
   font-size: 13px;
-  color: #999;
-  background: #f7f8f8;
+  color: #fff;
+  background: #000;
 }
 figure.highlight,
 .codeblock {

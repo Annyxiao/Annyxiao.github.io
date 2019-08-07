@@ -18,12 +18,12 @@ pre code {
   border-radius: 5px;
   box-shadow: 1px 1px 2px rgba(0,0,0,0.125);
   font-size: 13px;
-  color: #333;
-  background: #f7f8f8;
+  color: #fff;
+  background: #000;
 }
 figure.highlight,
 .codeblock {
-  background: #f7f8f8;
+  background: #000;
   margin: 10px 0;
   line-height: 1.1em;
   padding-top: 15px;
@@ -36,8 +36,8 @@ figure.highlight figcaption,
   font-size: 13px;
   padding: 0 15px 20px;
   margin: 0;
-  background: #f7f8f8;
-  color: #999;
+  background: #000;
+  color: #fff;
 }
 figure.highlight figcaption a,
 .codeblock figcaption a {
@@ -82,13 +82,13 @@ figure.highlight.plain .gutter,
 }
 figure.highlight .gutter,
 .codeblock .gutter {
-  background: #f7f8f8;
+  background: #000;
   border-right: 1px solid #e6e6e6;
   padding: 0.3em 15px;
 }
 figure.highlight .gutter .line,
 .codeblock .gutter .line {
-  color: #aaa;
+  color: #fff;
 }
 figure.highlight .line,
 .codeblock .line {
