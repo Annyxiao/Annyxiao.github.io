@@ -5,9 +5,9 @@
   <subtitle>知人者智，自知者明。胜人者有力，自胜者强。</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://annyxiao.github.io/"/>
   <updated>2019-08-07T07:21:04.824Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://annyxiao.github.io/</id>
   
   <author>
     <name>Anny</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>hexo + github搭建个人博客</title>
-    <link href="http://yoursite.com/2018/08/07/hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://yoursite.com/2018/08/07/hexo搭建个人博客/</id>
+    <link href="https://annyxiao.github.io/2018/08/07/hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://annyxiao.github.io/2018/08/07/hexo搭建个人博客/</id>
     <published>2018-08-07T02:33:09.000Z</published>
     <updated>2019-08-07T07:21:04.824Z</updated>
     
