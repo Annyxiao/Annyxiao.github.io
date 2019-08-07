@@ -93,7 +93,7 @@ figure.highlight .gutter .line,
 figure.highlight .line,
 .codeblock .line {
   font-size: 13px;
-  color: #333;
+  color: #fff;
 }
 figure.highlight .line.marked,
 .codeblock .line.marked {
@@ -168,7 +168,7 @@ figure.highlight .code,
   color: #969896;
 }
 .highlight.bash .code .variable {
-  color: #333;
+  color: #fff;
 }
 .highlight.coffeescript .code .subst,
 .highlight.coffeescript .code .regexp,
@@ -207,7 +207,7 @@ figure.highlight .code,
 }
 .highlight.cs .code .preprocessor,
 .highlight.cs .code .preprocessor .keyword {
-  color: #333;
+  color: #fff;
 }
 .highlight.cs .code .xmlDocTag,
 .highlight.cs .code .doctag {
@@ -228,7 +228,7 @@ figure.highlight .code,
 }
 .highlight.css .code .attr_selector,
 .highlight.css .code .value {
-  color: #333;
+  color: #fff;
 }
 .highlight.css .code .attribute,
 .highlight.css .code .hexcolor,
@@ -265,7 +265,7 @@ figure.highlight .code,
 }
 .highlight.ini .code .value,
 .highlight.ini .code .keyword {
-  color: #333;
+  color: #fff;
 }
 .highlight.ini .code .setting,
 .highlight.ini .code .attr {
@@ -281,7 +281,7 @@ figure.highlight .code,
   color: #795da3;
 }
 .highlight.js .code .tag .title {
-  color: #333;
+  color: #fff;
 }
 .highlight.js .code .regexp {
   color: #df5000;
@@ -322,7 +322,7 @@ figure.highlight .code,
   color: #795da3;
 }
 .highlight.mak .code .constant {
-  color: #333;
+  color: #fff;
 }
 .highlight.mak .code .keyword,
 .highlight.mak .code .meta-keyword {
@@ -365,7 +365,7 @@ figure.highlight .code,
   color: #183691;
 }
 .highlight.nginx .code .variable {
-  color: #333;
+  color: #fff;
 }
 .highlight.objectivec .code .title {
   color: #795da3;
@@ -435,7 +435,7 @@ figure.highlight .code,
   color: #a71d5d;
 }
 .highlight.xml .code .tag {
-  color: #333;
+  color: #fff;
 }
 .highlight.xml .code .value {
   color: #183691;
@@ -508,7 +508,7 @@ figure.highlight .code,
   color: #795da3;
 }
 .highlight.sass .code .variable {
-  color: #333;
+  color: #fff;
 }
 .highlight.stylus .code .tag,
 .highlight.stylus .code .selector-tag {
