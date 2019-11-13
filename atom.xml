@@ -38,6 +38,27 @@
   </entry>
   
   <entry>
+    <title>hexo创建新文章并提交</title>
+    <link href="https://annyxiao.github.io/2019/09/01/hexo%E5%88%9B%E5%BB%BA%E6%96%B0%E6%96%87%E7%AB%A0%E5%B9%B6%E6%8F%90%E4%BA%A4/"/>
+    <id>https://annyxiao.github.io/2019/09/01/hexo创建新文章并提交/</id>
+    <published>2019-09-01T06:19:40.000Z</published>
+    <updated>2019-11-13T06:27:36.161Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="1-创建一个新文章"><a href="#1-创建一个新文章" class="headerlink" title="1. 创建一个新文章"></a>1. 创建一个新文章</h2><p><code>hexo new &#39;文章的title&#39;</code>   或者    <code>hexo new post &#39;文章的title&#39;</code></p><h2 id="2-写文章"><a href="#2-写文章" class="headerlink" title="2. 写文章"></a>2. 写文章</h2><p>注意：提交文件的文件格式都是   <strong><u>.md</u></strong>  文档，本人用的是 Typora 写的md文档</p><h2 id="3-提交文章"><a href="#3-提交文章" class="headerlink" title="3.提交文章"></a>3.提交文章</h2><pre><code>1. `hexo g`   --  生成静态文件2. `hexo s`   --  启动本地服务，查看效果（如果确定可以省略）3. `hexo d`   --  上传到服务器4. 可以在线上查看提交的博客文章了</code></pre>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;1-创建一个新文章&quot;&gt;&lt;a href=&quot;#1-创建一个新文章&quot; class=&quot;headerlink&quot; title=&quot;1. 创建一个新文章&quot;&gt;&lt;/a&gt;1. 创建一个新文章&lt;/h2&gt;&lt;p&gt;&lt;code&gt;hexo new &amp;#39;文章的title&amp;#39;&lt;/code&gt;
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>hexo搭建个人博客-更新主题</title>
     <link href="https://annyxiao.github.io/2018/08/08/hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-%E6%9B%B4%E6%96%B0%E4%B8%BB%E9%A2%98/"/>
     <id>https://annyxiao.github.io/2018/08/08/hexo搭建个人博客-更新主题/</id>
