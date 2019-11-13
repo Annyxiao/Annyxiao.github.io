@@ -479,8 +479,8 @@ body {
   padding: 25px;
   background: #fff;
   border-radius: 4px;
-  -webkit-box-shadow: 1px 2px 3px #adc2d7;
-  box-shadow: 1px 2px 3px #adc2d7;
+  -webkit-box-shadow: 10px 12px 3px #adc2d7;
+  box-shadow: 10px 12px 3px #adc2d7;
   border: 1px solid #adc2d7;
   margin-bottom: 40px;
 }
